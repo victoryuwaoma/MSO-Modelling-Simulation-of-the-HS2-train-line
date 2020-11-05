@@ -17,6 +17,6 @@ You would need the following:
 
 2. Open Git Bash or Terminal
 
-$ git clone https://github.com/victoryuwaoma/DMML2-Project
+       $ git clone https://github.com/victoryuwaoma/MSO-Project
 
 Happy coding! 🤎
